@@ -1,0 +1,16 @@
+# Variables de entorno y secretos (¡NUNCA SUBIR ESTO!)
+.env
+
+# Bases de datos locales
+*.db
+*.sqlite3
+trading_bot.db
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.vscode/
